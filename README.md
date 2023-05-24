@@ -4,7 +4,7 @@
 - 📫 You can contact me at tayalnitin008@gmail.com
 
 <h3 align="left">Web Tech Stack :</h3>
- <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,mongodb"/>
+ <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,mongodb,express,nodejs"/>
 
 <h3 align="left">Languages :</h3>
 <div align="left">
